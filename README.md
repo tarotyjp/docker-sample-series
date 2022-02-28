@@ -29,6 +29,7 @@ https://github.com/tarotyjp/sample-series
 すでに `Docker Desktop` がインストールされていることを前提にしています。
 
 まだインストールされていない方は下記よりダウンロードしてインストールを完了させてください。
+
 [Docker Desktop](https://www.docker.com/products/docker-desktop)
 
 なお、2022年2月時点の `docker-composer` で動作確認をしていますため、ご利用のバージョンなどによっては動作しないこともあります。
