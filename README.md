@@ -10,13 +10,18 @@
 ご利用の際にはTwitterのフォローをお願いします。  
 [@tarotyjp (saburo)](https://twitter.com/tarotyjp)
 
-また、ハッシュタグ `#本気のDockerサンプル` を付けてツイートしていただけると嬉しいです。  
+また、ハッシュタグ `#本気のDockerサンプル` と このリポジトリのURLと一緒にツイートしていただけると嬉しいです。
 
 ツイートサンプル
 
 ```text
-#本気のDockerサンプル
 PHP版 本気のDockerサンプル でプログラミング学習始めましたー
+https://github.com/tarotyjp/sample-series
+
+#本気のDockerサンプル
+#駆け出しエンジニアとつながりたい 
+#プログラミング初心者 
+#プログラミング初学者と繋がりたい 
 ```
 
 ## 前提
@@ -31,5 +36,4 @@ PHP版 本気のDockerサンプル でプログラミング学習始めました
 ## サンプル一覧
 
 - [PHP版 本気のDockerサンプル](https://github.com/tarotyjp/docker-sample-php)
-- [PHP Laravel版 本気のDockerサンプル](https://github.com/tarotyjp/docker-sample-laravel)
-
+- [(準備中)PHP Laravel版 本気のDockerサンプル](https://github.com/tarotyjp/docker-sample-laravel)
