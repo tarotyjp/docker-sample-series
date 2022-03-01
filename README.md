@@ -37,4 +37,4 @@ https://github.com/tarotyjp/sample-series
 ## サンプル一覧
 
 - [PHP版 本気のDockerサンプル](https://github.com/tarotyjp/docker-sample-php)
-- [(準備中)PHP Laravel版 本気のDockerサンプル](https://github.com/tarotyjp/docker-sample-laravel)
+- [PHP Laravel版 本気のDockerサンプル](https://github.com/tarotyjp/docker-sample-laravel)
