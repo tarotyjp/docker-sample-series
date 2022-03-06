@@ -43,11 +43,16 @@ https://github.com/tarotyjp/sample-series
 
 なお、2022年2月時点の `docker-composer` で動作確認をしていますため、ご利用のバージョンなどによっては動作しないこともあります。
 
-## サンプル一覧
+## サンプルの使い方
 
-使い方が分からない方は下記をご参照ください。
-
+使い方が分からない方は下記をご参照ください。  
 [本気のサンプルシリーズの使い方](./manuals/download-docker.md)
+
+また、本気のDockerサンプルシリーズではXdebugが利用できます。  
+詳しくは下記をご参照ください。  
+[VSCode で Xdebug を利用する方法](./manuals/xdebug.md)
+
+## サンプル一覧
 
 - サンプル一覧
   - [PHP版 本気のDockerサンプル](https://github.com/tarotyjp/docker-sample-php)
