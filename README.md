@@ -45,5 +45,10 @@ https://github.com/tarotyjp/sample-series
 
 ## サンプル一覧
 
-- [PHP版 本気のDockerサンプル](https://github.com/tarotyjp/docker-sample-php)
-- [PHP Laravel版 本気のDockerサンプル](https://github.com/tarotyjp/docker-sample-laravel)
+使い方が分からない方は下記をご参照ください。
+
+[本気のサンプルシリーズの使い方](./manuals/download-docker.md)
+
+- サンプル一覧
+  - [PHP版 本気のDockerサンプル](https://github.com/tarotyjp/docker-sample-php)
+  - [PHP Laravel版 本気のDockerサンプル](https://github.com/tarotyjp/docker-sample-laravel)
