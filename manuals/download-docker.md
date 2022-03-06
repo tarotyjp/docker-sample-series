@@ -29,13 +29,13 @@ gitを利用できる方でも、サクッと試してみたい方はこちら�
 
 [PHP版 本気の Docker サンプル](https://github.com/tarotyjp/docker-sample-php)
 
-![githubページ](./images/download-docker/github.png)
+<img alt="githubページ" src="./images/download-docker/github.png" width="450px">
 
 ### 2. zip形式でダウンロードする
 
 「Code」と書かれた緑のボタンを押して「Download ZIP」をクリックして保存します。
 
-![githubページ](./images/download-docker/download.png)
+<img alt="githubページ" src="./images/download-docker/download.png" width="450px">
 
 ### 3. zipを展開して利用する
 
@@ -52,7 +52,7 @@ zipファイルを展開する前に展開先を決めておきましょう。
 展開されたフォルダをVS Codeで開きましょう。  
 下記画像のようにcloneされたプロジェクトが表示されれば準備完了です。
 
-![clone](./images/download-docker/prepared.jpg)
+<img alt="clone" src="./images/download-docker/prepared.jpg" width="450px">
 
 ここから先は 「[Dockerの利用方法](#Dockerの利用方法)」をご参照ください
 
@@ -75,39 +75,39 @@ zipファイルを展開する前に展開先を決めておきましょう。
 
 [PHP版 本気の Docker サンプル](https://github.com/tarotyjp/docker-sample-php)
 
-![githubページ](./images/download-docker/github.png)
+<img alt="githubページ" src="./images/download-docker/github.png" width="450px">
 
 ### 2. リポジトリをフォーク
 
 画面右上の `Fork` アイコンをクリックしてフォークします。
 
-![fork](./images/download-docker/fork1.png)
+<img alt="fork" src="./images/download-docker/fork1.png" width="450px">
 
 しばらく下記のような画面が表示されます。
 
-![fork](./images/download-docker/fork2.jpg)
+<img alt="fork" src="./images/download-docker/fork2.jpg" width="300px">
 
 Forkが完了すると自動的に画面が更新されます。  
 画面左上を見ると、ご自身のリポジトリとしてForkされていることが分かります。
 
-![fork](./images/download-docker/fork3.png)
+<img alt="fork" src="./images/download-docker/fork3.png" width="450px">
 
 ### 3. フォークしたリポジトリのURLをコピー
 
 「Code」と書かれた緑のボタンを押してURLをコピーします。
 
-![githubページ](./images/download-docker/url_copy.png)
+<img alt="githubページ" src="./images/download-docker/url_copy.png" width="450px">
 
 ### 4. git cloneする
 
 VS Codeを開き下記画像を参考に `git clone` の準備をして `Enterキー` を押します。
 
-![clone](./images/download-docker/clone1.png)
+<img alt="clone" src="./images/download-docker/clone1.png" width="450px">
 
 clone先のフォルダを選択する画面が出ますので、作業ディレクトリを指定してください。
 なお、clone時には作業ディレクトリの配下にリポジトリ名でフォルダが自動的に作成されます。
 
-![clone](./images/download-docker/clone2.jpg)
+<img alt="clone" src="./images/download-docker/clone2.jpg" width="300px">
 
 画像はWindowsでの例ですが、この例では下記のように指定しています。
 
@@ -116,11 +116,11 @@ clone先のフォルダを選択する画面が出ますので、作業ディレ
 
 cloneが完了すると下記のようにclone後のアクションを聞かれるので「開く」をクリックしましょう。
 
-![clone](./images/download-docker/clone3.png)
+<img alt="clone" src="./images/download-docker/clone3.png" width="450px">
 
 下記画像のようにcloneされたプロジェクトが表示されれば準備完了です。
 
-![clone](./images/download-docker/prepared.jpg)
+<img alt="clone" src="./images/download-docker/prepared.jpg" width="450px">
 
 ここから先は 「[Dockerの利用方法](#Dockerの利用方法)」をご参照ください
 
@@ -143,7 +143,7 @@ VS Codeを利用している方が多いと思うので、VS Codeを前提に解
 
 メニューからターミナルを開きます。
 
-![ターミナルを開く](./images/download-docker/terminal.png)
+<img alt="ターミナルを開く" src="./images/download-docker/terminal.png" width="450px">
 
 ### 2. Dockerコマンドを実行する
 
@@ -155,12 +155,12 @@ docker-compose build --no-cache
 
 こんな感じで終了すればOKです。
 
-![docker-compose build --no-cache](./images/download-docker/build.png)
+<img alt="docker-compose build --no-cache" src="./images/download-docker/build.png" width="450px">
 
 ```shell
 docker-compose up -d
 ```
 こんな感じで終了すればOKです。
 
-![docker-compose build --no-cache](./images/download-docker/up.png)
+<img alt="docker-compose build --no-cache" src="./images/download-docker/up.png" width="450px">
 
