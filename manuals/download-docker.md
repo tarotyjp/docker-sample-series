@@ -10,6 +10,8 @@ gitを使ったことな人もいるので、ダウンロードの方法はgit�
 
 [PHP版 本気の Docker サンプル](https://github.com/tarotyjp/docker-sample-php)
 
+なお、VS Codeを利用して学んでいる方が多いことが予想されるため、VS Codeを利用することを前提に説明しています。
+
 ---
 
 ## gitを使ったことない人向け
@@ -127,8 +129,6 @@ cloneが完了すると下記のようにclone後のアクションを聞かれ�
 ---
 
 ## Dockerの利用方法
-
-VS Codeを利用している方が多いと思うので、VS Codeを前提に解説します。
 
 大まかな流れは下記のとおりです。
 
