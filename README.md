@@ -2,7 +2,7 @@
 
 ---
 
-**＊サンプルのリンクについて**
+**<span style="color: mediumvioletred;">＊サンプルのリンクについて</span>**
 
 実際のサンプルはこのページの最下部にリンクがあります。
 
@@ -58,3 +58,4 @@ https://github.com/tarotyjp/sample-series
   - [PHP版 本気のDockerサンプル](https://github.com/tarotyjp/docker-sample-php)
   - [PHP Laravel版 本気のDockerサンプル](https://github.com/tarotyjp/docker-sample-laravel)
   - [PHP版 本気のOOPサンプル](https://github.com/tarotyjp/oop-sample-php)
+  - [MySQL版 本気の Docker サンプル](https://github.com/tarotyjp/docker-sample-mysql)
