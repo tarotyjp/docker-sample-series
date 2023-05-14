@@ -146,7 +146,7 @@ cloneが完了すると下記のようにclone後のアクションを聞かれ�
 1. ターミナルを開く
 2. Dockerコマンドを実行する
    1. `docker-compose build --no-cache`
-   2. `docker-compose build up -d`
+   2. `docker-compose up -d`
 
 では一つずつ一緒に見ていきましょう。
    
